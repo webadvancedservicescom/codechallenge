@@ -1,0 +1,247 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+/*RESPONSIVE on IPADS */
+
+@media only screen and (min-width:1024px) and (max-width:1024px){
+   /*Amazon Kindle Fire Vertical*/
+   
+}
+
+@media only screen and (min-width:600px) and (max-width:601px){
+   /*Amazon Kindle Fire Horizontal*/
+}
+
+@media only screen and (min-width:1920px) and (max-width:1921px){
+   /*Amazon Kindle Fire HDX 7 vertical*/
+}
+
+@media only screen and (min-width:1200px) and (max-width:1201px){
+   /*Amazon Kindle Fire HDX 7 Horizontal*/
+}
+
+
+@media only screen and (min-width:2560px) and (max-width:2561px){
+   /*Amazon Kindle Fire HDX 7 vertical*/
+}
+
+@media only screen and (min-width:1600px) and (max-width:1601px){
+   /*Amazon Kindle Fire HDX 7 Horizontal*/
+}
+
+@media only screen and (min-width:1024px) and (max-width:1025px){
+   /*BlackBerry PlayBook*/
+}
+
+@media only screen and (min-width:600px) and (max-width:601px){
+   /*BlackBerry PlayBook*/
+}
+
+@media only screen and (min-width:1280px) and (max-width:1281px){
+   /*Google Nexus 10*/
+}
+
+@media only screen and (min-width:800px) and (max-width:801px){
+   /*Google Nexus 10*/
+}
+
+@media only screen and (min-width:966px) and (max-width:967px){
+   /*Google Nexus 7*/
+}
+
+@media only screen and (min-width:604px) and (max-width:605px){
+   /*Google Nexus 7*/
+}
+
+@media only screen and (min-width:960px) and (max-width:961px){
+   /*Google Nexus 7 2*/
+}
+
+@media only screen and (min-width:600px) and (max-width:601px){
+   /*Google Nexus 7 2*/
+}
+
+@media only screen and (min-width:1280px) and (max-width:1281px){
+   /*Motorola Xoom Xyboard*/
+}
+
+@media only screen and (min-width:800px) and (max-width:801px){
+   /*Motorola Xoom Xyboard*/
+}
+
+@media only screen and (min-width:720px) and (max-width:721px){
+   /*Motorola Droid Razr HD*/
+}
+
+@media only screen and (min-width:1280px) and (max-width:1281px){
+   /*Motorola Droid Razr HD*/
+}
+
+@media only screen and (min-width:1440px) and (max-width:1441px){
+   /*Notebook with HiDPI screen*/
+}
+
+@media only screen and (min-width:900px) and (max-width:901px){
+   /*Notebook with HiDPI screen*/
+}
+
+/*RESPONSIVE on PHONES*/
+
+
+
+@media only screen and (min-width:1024px) and (max-width:1025px){
+   /*Apple ipad 1/2 ipad mini Vertical*/
+}
+
+@media only screen and (min-width:768px) and (max-width:769px){
+   /*Apple ipad 1/2 ipad mini Horizontal*/
+}
+
+@media only screen and (min-width:1024px) and (max-width:1025px){
+   /*Apple ipad 3/4 ipad mini Horizontal*/
+}
+
+@media only screen and (min-width:768px) and (max-width:769px){
+   /*Apple ipad 3/4 ipad mini Vertical*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*Apple iphone 3GS*/
+}
+
+@media only screen and (min-width:480px) and (max-width:481px){
+   /*Apple iphone 3GS*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*Apple iphone 4*/
+}
+
+@media only screen and (min-width:480px) and (max-width:481px){
+   /*Apple iphone 4*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*Apple iphone 5*/
+}
+
+@media only screen and (min-width:568px) and (max-width:569px){
+   /*Apple iphone 5*/
+}
+
+@media only screen and (min-width:375px) and (max-width:376px){
+   /*Apple iphone 6*/
+}
+
+@media only screen and (min-width:667px) and (max-width:668px){
+   /*Apple iphone 6*/
+}
+
+@media only screen and (min-width:414px) and (max-width:415px){
+   /*Apple iphone 6 plus*/
+}
+
+@media only screen and (min-width:736px) and (max-width:737px){
+   /*Apple iphone 6 plus*/
+}
+
+@media only screen and (min-width:384px) and (max-width:385px){
+   /*BlackBerry z10*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*BlackBerry z10*/
+}
+
+@media only screen and (min-width:360px) and (max-width:361px){
+   /*BlackBerry z30*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*BlackBerry z30*/
+}
+
+@media only screen and (min-width:384px) and (max-width:385px){
+   /*google Nexus 4*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*google Nexus 4*/
+}
+
+@media only screen and (min-width:360px) and (max-width:361px){
+   /*google Nexus 5*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*google Nexus 5*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*google Nexus S*/
+}
+
+@media only screen and (min-width:533px) and (max-width:534px){
+   /*google Nexus S*/
+}
+
+@media only screen and (min-width:424px) and (max-width:425px){
+   /*LG Optimus LTE Optimus 4x*/
+}
+
+@media only screen and (min-width:753px) and (max-width:754px){
+   /*LG Optimus LTE Optimus 4x*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*Motorola Defy Droid Droid x*/
+}
+
+@media only screen and (min-width:569px) and (max-width:570px){
+   /*Motorola Defy Droid Droid x*/
+}
+
+@media only screen and (min-width:540px) and (max-width:541px){
+   /*Motorola Defy Droid 3*/
+}
+
+@media only screen and (min-width:960px) and (max-width:961px){
+   /*Motorola Defy Droid 3*/
+}
+
+@media only screen and (min-width:360px) and (max-width:361px){
+   /*Nokia c5*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*Nokia c5*/
+}
+
+@media only screen and (min-width:320px) and (max-width:321px){
+   /*Nokia Lumina 8xx*/
+}
+
+@media only screen and (min-width:533px) and (max-width:534px){
+   /*Nokia Lumina 8xx*/
+}
+
+@media only screen and (min-width:400px) and (max-width:401px){
+   /*Samsung Galaxy Note*/
+}
+
+@media only screen and (min-width:640px) and (max-width:601px){
+   /*Samsung Galaxy Note*/
+}
+
+@media only screen and (min-width:360px) and (max-width:361px){
+   /*Samsung Galaxy Note 3*/
+}
+
+@media only screen and (min-width:360px) and (max-width:361px){
+   /*Samsung Galaxy Note 3*/
+}
+
+@media only screen and (min-width:640px) and (max-width:641px){
+   /*Samsung Galaxy Note 3*/
+}
